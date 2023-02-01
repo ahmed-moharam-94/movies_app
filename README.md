@@ -21,6 +21,6 @@ An application to get or search information about Pokemons.
 - [Api Info](https://www.themoviedb.org/)
 
 
-<img src="https://github.com/ahmed-moharam-94/movies_app/blob/master/media/screen_shot_1.gif" width="150" height="300"> |
-<img src="https://github.com/ahmed-moharam-94/movies_app/blob/master/media/screen_shot_2.jpg" width="150" height="300"> |
-<img src="https://github.com/ahmed-moharam-94/movies_app/blob/master/media/screen_shot_3.jpg" width="150" height="300"> |
+<img src="https://github.com/ahmed-moharam-94/movies_app/blob/master/media/screen_shot_1.jpg" width="200" height="400"> |
+<img src="https://github.com/ahmed-moharam-94/movies_app/blob/master/media/screen_shot_2.jpg" width="200" height="400"> |
+<img src="https://github.com/ahmed-moharam-94/movies_app/blob/master/media/screen_shot_3.jpg" width="200" height="400"> |
